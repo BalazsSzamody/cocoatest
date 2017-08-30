@@ -1,6 +1,6 @@
 # StringExtensions
 
-[![CI Status](http://img.shields.io/travis/Jonathan Finlay/StringExtensions.svg?style=flat)](https://travis-ci.org/Jonathan Finlay/StringExtensions)
+[![CI Status](http://img.shields.io/travis/jonnyfinlay99/StringExtensions.svg?style=flat)](https://travis-ci.org/jonnyfinlay99/StringExtensions)
 [![Version](https://img.shields.io/cocoapods/v/StringExtensions.svg?style=flat)](http://cocoapods.org/pods/StringExtensions)
 [![License](https://img.shields.io/cocoapods/l/StringExtensions.svg?style=flat)](http://cocoapods.org/pods/StringExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/StringExtensions.svg?style=flat)](http://cocoapods.org/pods/StringExtensions)
