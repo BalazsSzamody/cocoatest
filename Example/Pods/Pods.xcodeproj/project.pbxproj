@@ -92,6 +92,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2EEBD83F1F56FF8F00D98144 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				CE90D839140842DD4BE6B443A8865DBA /* StringExtensions.swift */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
 		309D1200503658E7CB16744A4F9F4A1F /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -109,7 +117,7 @@
 		37D84F4A6376166E0BC11CEDD1A72B15 /* StringExtensions */ = {
 			isa = PBXGroup;
 			children = (
-				CE90D839140842DD4BE6B443A8865DBA /* StringExtensions.swift */,
+				2EEBD83F1F56FF8F00D98144 /* Classes */,
 				309D1200503658E7CB16744A4F9F4A1F /* Support Files */,
 			);
 			name = StringExtensions;
