@@ -1,0 +1,6 @@
+framework module Pods_StringExtensions_Tests {
+  umbrella header "Pods-StringExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

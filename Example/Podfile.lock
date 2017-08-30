@@ -1,0 +1,16 @@
+PODS:
+  - StringExtensions (0.1.0)
+
+DEPENDENCIES:
+  - StringExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  StringExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StringExtensions: 6702ccdb3328f89cc62cf46b1347ed251dd8801e
+
+PODFILE CHECKSUM: 31aae00e256b18483d611e54c8ba9e89d957238d
+
+COCOAPODS: 1.3.1
