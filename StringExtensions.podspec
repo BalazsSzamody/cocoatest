@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'StringExtensions'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'Project with some useful string extensions'
 
 # This description is used to generate tags and improve search results.
