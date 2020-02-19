@@ -1,7 +1,7 @@
 import XCTest
 
-import cocoatestTests
+import StringExtensionsTests
 
 var tests = [XCTestCaseEntry]()
-tests += cocoatestTests.allTests()
+tests += StringExtensionsTests.allTests()
 XCTMain(tests)
