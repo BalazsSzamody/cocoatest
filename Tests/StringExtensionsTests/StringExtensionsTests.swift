@@ -2,14 +2,18 @@ import XCTest
 @testable import StringExtensions
 
 final class StringExtensionsTests: XCTestCase {
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(cocoatest().text, "Hello, World!")
+    func testExample_Matches() {
+        let sut = "fr3qfly@gmail.com"
+        XCTAssertTrue(sut.isEmail)
+    }
+
+    func testExample_DoesntMatch_noAt() {
+        let sut = "fr3qflygmail.com"
+        XCTAssertFalse(sut.isEmail)
     }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("testExample_Matches", testExample_Matches),
+        ("testExample_DoesntMatch_noAt", testExample_DoesntMatch_noAt)
     ]
 }
