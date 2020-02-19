@@ -1,7 +1,7 @@
 import XCTest
-@testable import cocoatest
+@testable import StringExtensions
 
-final class cocoatestTests: XCTestCase {
+final class StringExtensionsTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
